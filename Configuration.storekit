@@ -1,0 +1,33 @@
+{
+  "identifier" : "7BBA94C6",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "B19E2734",
+      "localizations" : [
+        {
+          "description" : "Ger more quotes",
+          "displayName" : "Premium Quotes",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.AnnaShark.InspoQuotes.PremiumQuotes",
+      "referenceName" : "Premium Quotes",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
